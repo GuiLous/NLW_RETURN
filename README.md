@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center" margin-top="25px" >
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Azanniel/nlw-return?color=blueviolet">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Azanniel/nlw-return?color=blueviolet">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/Azanniel/nlw-return?color=blueviolet">
 </p>
